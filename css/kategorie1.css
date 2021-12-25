@@ -1,0 +1,46 @@
+#tekst{
+  color: white;
+  padding: 10px;
+  font-size: 15px;
+}
+#galeria{
+  height: 350px;
+}
+img{
+
+  float: left;
+  width: 150px;
+  height: 150px;
+  background-color: white;
+  margin-top: 20px;
+margin-left:10px;;
+border-radius: 15px;
+transition: transform .2s;
+}
+img:hover{
+cursor: zoom-in;
+  transform: scale(3.0);
+}
+.nazwagaleri{
+  padding-left: 10px;
+}
+.osilniku{
+  text-align: justify;
+  color: white;
+  margin-left: 20px;
+  width: 500px;
+  height: auto;
+  float: left;
+}
+.osilniku2{
+  color: white;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  text-align: justify;
+}
+#obrazek{
+  background-image: url("./../ob.png");
+
+}

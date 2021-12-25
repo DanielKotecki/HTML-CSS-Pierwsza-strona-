@@ -1,0 +1,44 @@
+.input{
+ margin-left: 20px;
+ margin-top: 20px;
+
+}
+.mar{
+  margin-top: 20px;
+}
+#nazwainput{
+  color: white;
+}
+#man{
+  color: white;
+  text-align: center;
+}
+.naz{
+  margin-left: auto;
+  margin-right: auto;
+}
+#wyslij{
+  width: 173px;
+  height: 25px;
+  background-color: #800000;
+  color: white;
+  font-weight: bold;
+border-radius: 8px;
+}
+.Lew{
+  float: left;
+}
+#wynik{
+  margin-left:  56px;
+  width: 200px;
+  height: 150px;
+  float: left;
+  border-radius: 7px;
+  background-color: white;
+}
+#mandat{
+  text-align: center;
+}
+input{
+  margin-left: 10px;
+}

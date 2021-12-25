@@ -1,0 +1,1 @@
+Przelicznik działa ale wyświetla w konsoli przeglądarki.

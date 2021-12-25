@@ -1,0 +1,135 @@
+
+body{
+
+background-image: url("./../img/prism.png");
+}
+
+#header{
+margin-left: auto;
+margin-right: auto;
+width: 900px;
+height: 80px;
+/*//background-color: 	#4c586f;*/
+
+
+}
+#obrazek{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  width: 900px;
+  height: 80px;
+  background-color: 	#4c586f;
+}
+
+#box{
+width: 900px;
+height: auto;
+margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+/*  background-color: 	#4c586f;*/
+}
+#menuL{
+float: left;
+width: 190px;
+height: auto;
+background-color: 	#4c586f
+border: 2px solid red;
+
+}
+#content{
+  float: left;
+width: 709px;
+height: auto;
+background-color: 	#4c586f
+
+}
+.op{
+  height: 40px;
+text-align: center;
+color: white;
+font-weight: bold;
+font-size: 20px;
+    padding-top: 10px;
+}
+
+.Nop{
+  background-color: #800000;
+  width:max;
+  height: 40px;
+text-align: center;
+color: white;
+font-size: 20px;
+font-weight: bold;
+    padding-top: 10px;
+
+}
+.op:hover{
+  background-color: grey;
+  /*border: 2px solid red;*/
+    border-radius: 25px;
+    cursor: pointer;
+}
+.np{
+  padding: 20px;
+  color: white;
+
+}
+
+p{
+
+  font-size: 15px;
+  text-align: justify;
+}
+.punkty{
+
+  padding: 10px;
+  color: white;
+  border: 2px solid red;
+}
+.punkty:hover{
+  cursor: pointer;
+  background-color: grey;
+}
+#stopka{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  float: left;
+  width: 900px;
+  height: 80px;
+  background-color: #4c586f;
+  color: white;
+}
+#onas{
+  float: left;
+  width: 200px;
+  height: 50px;
+  margin-left: 20px;
+  padding:12px;
+  text-align: center;
+  border: 2px solid white;
+}
+#onas:hover{
+  background-color: grey;
+    cursor: pointer;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+#Tworca{ margin-left:200px;
+  float: left;
+}
+#l1{
+  padding-left: 350px;
+  padding-top: 15px;
+}
+#obrazek{
+  background-image: url("./../ob.png");
+
+}
